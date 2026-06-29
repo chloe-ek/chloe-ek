@@ -40,10 +40,6 @@ I can build reliable, scalable systems and keep growing on the infrastructure si
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-#### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=chloe-ek&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chloe-ek&layout=compact&theme=tokyonight)
-
 #### 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chloe-kwon08)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chloe.kwon08@gmail.com)
